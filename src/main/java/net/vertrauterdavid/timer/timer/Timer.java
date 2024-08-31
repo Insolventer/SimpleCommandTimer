@@ -1,4 +1,4 @@
-package net.vertrauterdavid.timer.util;
+package net.vertrauterdavid.timer.timer;
 
 import lombok.Getter;
 import net.vertrauterdavid.timer.SimpleCommandTimer;

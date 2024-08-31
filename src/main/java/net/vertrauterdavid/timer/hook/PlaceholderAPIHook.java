@@ -1,4 +1,4 @@
-package net.vertrauterdavid.timer.util;
+package net.vertrauterdavid.timer.hook;
 
 import lombok.RequiredArgsConstructor;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
@@ -19,7 +19,7 @@ public class PlaceholderAPIHook extends PlaceholderExpansion {
 
     @Override
     public @NotNull String getAuthor() {
-        return "VertrauterDavid";
+        return "VertrauterDavid, Insolventer";
     }
 
     @Override
